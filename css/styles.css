@@ -32,10 +32,14 @@ body {
 }
 
 .social-icons li a {
-    display: block;
-    background-color: antiquewhite;
-    padding: 40px;
-    border-radius: 25%;
+  display: block;
+  background-color: antiquewhite;
+  padding: 40px;
+  border-radius: 25%;
+}
+
+.op {
+  opacity: 0.4;
 }
 
 .social-icons img {
